@@ -10,7 +10,6 @@
 
 A production-grade multi-agent research system built with LangGraph, FastAPI, and Streamlit. Given a research query, the system autonomously breaks it into sub-questions, researches each one in parallel, evaluates quality, loops for more research if needed, and generates a structured markdown report with proper citations.
 
-Built entirely on free-tier infrastructure — Groq (LLaMA 3.3), DuckDuckGo, SQLite.
 
 ---
 
