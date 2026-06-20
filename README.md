@@ -1,4 +1,10 @@
-# Deep Research Agent
+# 🔬 Deep Research Agent
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1.x-blue?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-LLaMA3.3_70B-orange?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-async-green?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-frontend-red?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 ![Deep Research Agent Architecture](./assets/architecture.png)
 
