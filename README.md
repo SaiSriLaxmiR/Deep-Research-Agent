@@ -533,17 +533,6 @@ docker compose up
 
 ---
 
-## Example output
-
-**Query:** What is the impact of LLMs on software engineering jobs?
-**Depth:** standard | **Iterations:** 1 | **Sources:** 14 | **Quality:** 0.85
-
-> Large language models are transforming software engineering by automating code generation, testing, and debugging. GitHub Copilot completes 40% of code for some developers. Studies show 55% productivity gains when using LLM-powered tools...
-
-[Full report with 14 cited sources, 5 sections, 5000+ words]
-
----
-
 ## License
 
 MIT
