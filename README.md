@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔬 Deep Research Agent
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1.x-blue?style=flat-square)
